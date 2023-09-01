@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShreshtaPrabhu !
 - 👀 I’m interested in Artificial Intelligence and Robotics.
-- 🌱 I’m currently learning how to design data prediction models.
 - 📫 How to reach me : prabhu.shreshta@gmail.com
 
 <!---
