@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShreshtaPrabhu !
-- 👀 I’m interested in Artificial Intelligence and Robotics.
-- 📫 How to reach me : prabhu.shreshta@gmail.com
+- 📫 How to reach me : shreshta@umich.edu 
 
 <!---
 ShreshtaPrabhu/ShreshtaPrabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
